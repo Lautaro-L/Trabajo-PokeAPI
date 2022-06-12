@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b12fabd0-3f1a-4015-b201-fb1d33a38557" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/TP_DDS/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/TP_DDS/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP_DDS/src/main/java/algoritmo/Algoritmo.java" beforeDir="false" afterPath="$PROJECT_DIR$/TP_DDS/src/main/java/algoritmo/Algoritmo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP_DDS/src/test/java/algoritmo/AlgoritmoTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/TP_DDS/src/test/java/algoritmo/AlgoritmoTests.java" afterDir="false" />
+    </list>
+    <list id="35c94672-bf8b-46e2-954e-5197191b6640" name="Changes by Tomi" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="28nZvqyEk20hBpcfwVtNgnmiIA4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/Users/Santi/Desktop/Facultad/Tercer_anio/Disenio_de_sistemas/TP-DDS-G2-2022"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Algoritmo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TP_DDS.src.main.java.algoritmo.Algoritmo" />
+      <module name="TP-DDS-G2-2022" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TP_DDS.src.main.java.algoritmo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Algoritmo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b12fabd0-3f1a-4015-b201-fb1d33a38557" name="Changes" comment="" />
+      <created>1651854545444</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1651854545444</updated>
+    </task>
+    <servers />
+  </component>
+</project>
